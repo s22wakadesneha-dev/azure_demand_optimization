@@ -1,2 +1,12 @@
 2026-04-02 00:14:06,980 - INFO - Scheduler started. Runs daily at 06:00 UTC.
 2026-04-02 00:14:06,982 - INFO - Pipeline started at 2026-04-01T18:44:06.980546
+2026-04-02 00:14:09,683 - INFO - Model loaded for batch prediction.
+2026-04-02 00:14:09,721 - INFO - Loaded 5000 rows from 'new_data.csv'
+2026-04-02 00:14:09,721 - INFO - Forecasting 5000 steps ahead using ARIMA...
+2026-04-02 00:14:09,907 - INFO - Forecast saved to 'forecast_output.csv' (5000 rows)
+2026-04-02 00:14:09,924 - INFO - Batch prediction completed successfully.
+2026-04-02 00:14:09,932 - INFO - Pipeline completed successfully at 2026-04-01T18:44:09.932336
+2026-04-02 00:14:09,975 - WARNING - \u26a0\ufe0f  CAPACITY ALERT: 2455 forecast records exceed 80% of provisioned capacity.
+   Regions affected: ['UK-South', 'East-Asia', 'West-US', 'East-US', 'Central-India']
+   Max utilisation: 274.7%
+   Action: Review provisioning for upcoming period.
