@@ -1,0 +1,2 @@
+timestamp,n_samples,mae,rmse,bias,directional_accuracy_pct
+2026-04-01T18:35:10.134825,5000,111.9581,129.3206,-0.8407,21.6

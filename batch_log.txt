@@ -1,0 +1,8 @@
+2026-04-01 23:52:09,755 - ERROR - FileNotFoundError: Model not found at 'best_arima_model.pkl'. Train and save the model first.
+2026-04-01 23:58:35,514 - INFO - Model loaded for batch prediction.
+2026-04-01 23:58:35,514 - ERROR - FileNotFoundError: Input file not found: 'new_data.csv'
+2026-04-02 00:02:23,453 - INFO - Model loaded for batch prediction.
+2026-04-02 00:02:23,501 - INFO - Loaded 5000 rows from 'new_data.csv'
+2026-04-02 00:02:23,501 - INFO - Forecasting 5000 steps ahead using ARIMA...
+2026-04-02 00:02:23,685 - INFO - Forecast saved to 'forecast_output.csv' (5000 rows)
+2026-04-02 00:02:23,705 - INFO - Batch prediction completed successfully.

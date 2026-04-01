@@ -101,6 +101,7 @@ print("Lag features created!\n")
 print(df)
 
 
+
 #  6. Rolling Statistical Features
 
 df["rolling_mean_3"] = df["usage_units"].rolling(window=3).mean()      # short-term trend
