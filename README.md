@@ -94,3 +94,9 @@ Please ensure your code follows the project's style guidelines and includes test
 
 This project is licensed under the LICENSE License.
 
+
+## 🚀 Live Demo - Azure Demand Forecasting System
+
+This project is deployed and available online:
+
+👉 https://azuredemandoptimization-7u6pxlizwwdc5wbjn5shpo.streamlit.app/
